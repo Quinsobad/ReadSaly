@@ -1,13 +1,10 @@
 <div align="center">
-  <img height="150" src="https://i.pinimg.com/originals/31/e1/03/31e1037b1b30c313806263929812df66.gif"  />
+  <img height="150" src="https://i.pinimg.com/originals/3c/84/b3/3c84b32bf39399aec812d2c04cfd70fa.gif"  />
 </div>
 
 ###
 
 <div align="center">
-  <a href="https://discord.gg/WMFcNr23kJ" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
   <a href="https://www.facebook.com/saly.0105" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
@@ -63,7 +60,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=SalyyS1&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Quinsobad&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
@@ -78,10 +75,5 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SalyyS1/SalyyS1/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SalyyS1/SalyyS1/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SalyyS1/SalyyS1/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
